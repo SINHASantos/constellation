@@ -58,8 +58,6 @@ Constellation supports all of the most widely used DNS record types:
 
 Constellation is built in Rust. To install it, either download a version from the [Constellation releases](https://github.com/valeriansaliou/constellation/releases) page, use `cargo install` or pull the source code from `master`.
 
-👉 _Each release binary comes with an `.asc` signature file, which can be verified using [@valeriansaliou](https://github.com/valeriansaliou) GPG public key: [:key:valeriansaliou.gpg.pub.asc](https://valeriansaliou.name/files/keys/valeriansaliou.gpg.pub.asc)._
-
 **Install from packages:**
 
 Constellation provides [pre-built packages](https://packagecloud.io/valeriansaliou/constellation) for Debian-based systems (Debian, Ubuntu, etc.).
